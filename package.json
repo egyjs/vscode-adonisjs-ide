@@ -7,15 +7,43 @@
 		"vscode": "^1.66.0"
 	},
 	"categories": [
+		"Programming Languages",
+		"Snippets",
+		"Formatters",
 		"Other"
 	],
-	
+	"preview": true,
 	"activationEvents": [
         "onCommand:adonisjs-ide.helloWorld",
 		"onLanguage:typescript",
 		"workspaceContains:ace"
 	],
-	
+	"author": {
+		"name": "EgyJs",
+		"url": "https://egyjs.com/"
+	},
+	"bugs": {
+		"url": "https://github.com/egyjs/vscode-adonisjs-ide/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/egyjs/vscode-adonisjs-ide"
+	},
+	"homepage": "https://github.com/egyjs/vscode-adonisjs-ide/blob/master/README.md",
+	"keywords": [
+		"adonis",
+		"edge",
+		"template",
+		"snippet",
+		"formatter",
+		"nodejs",
+		"ide"
+	],
+	"icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#5a45ff",
+		"theme": "dark"
+	  },
 	"main": "./out/extension.js",
 	"contributes": {
 		"configuration":[
