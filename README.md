@@ -34,7 +34,7 @@ This extension contributes the following settings:
 
 
 
-### 0.0.1
+### 1.0
 
 Initial release
 

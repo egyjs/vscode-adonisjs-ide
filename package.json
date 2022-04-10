@@ -2,7 +2,7 @@
   "name": "adonisjs-ide",
 	"displayName": "Adonisjs Ide",
 	"description": "",
-	"version": "0.0.1",
+	"version": "1.0.2",
 	"engines": {
 		"vscode": "^1.66.0"
 	},
