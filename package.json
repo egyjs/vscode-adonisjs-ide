@@ -22,6 +22,7 @@
 		"name": "EgyJs",
 		"url": "https://egyjs.com/"
 	},
+	"publisher": "egyjs",
 	"bugs": {
 		"url": "https://github.com/egyjs/vscode-adonisjs-ide/issues"
 	},
@@ -41,7 +42,7 @@
 	],
 	"icon": "images/icon.png",
 	"galleryBanner": {
-		"color": "#5a45ff",
+		"color": "#3d2eb5",
 		"theme": "dark"
 	  },
 	"main": "./out/extension.js",
